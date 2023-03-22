@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and software development 
 - 🌱 I’m currently learning how to deploy applications on a server
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email:harunaseidujnr@gmail.com
 
 <!---
 Haruna245/Haruna245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
