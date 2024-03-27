@@ -34,7 +34,7 @@ Fastapi,Node js and Laravel.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on fine fine tuning a large language model to work with personalize or private data  
+- 🔭 I’m currently working on fine tuning a large language model to work with personalize or private data  
   
 
 - 🌱 I’m currently learning how to automate CI/CD pipelines  
