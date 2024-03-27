@@ -31,7 +31,7 @@ Fastapi,Node js and Laravel.
 <br/>  
 
 
-## Rapidfire  
+## What I am working on  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on fine tuning a large language model to work with personalize or private data  
@@ -44,13 +44,6 @@ Fastapi,Node js and Laravel.
   
 
 - ⚡ Fun fact: I like to watch movies and play football.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
