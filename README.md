@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haruna245" alt="haruna245" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/haruna_seidujnr" target="blank"><img src="https://img.shields.io/twitter/follow/haruna_seidujnr?logo=twitter&style=for-the-badge" alt="haruna_seidujnr" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [@Haruna245 on github](@Haruna245 on github)
 
 - 💬 Ask me about **django technologies and anything relating to django and laravel**
@@ -13,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/haruna seidujnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haruna seidujnr" height="30" width="40" /></a>
-<a href="https://instagram.com/haruna seidujnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haruna seidujnr" height="30" width="40" /></a>
+<a href="https://twitter.com/haruna_seidujnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haruna_seidujnr" height="30" width="40" /></a>
+<a href="https://fb.com/haruna_seidujnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haruna_seidujnr" height="30" width="40" /></a>
+<a href="https://instagram.com/haruna_seidujnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haruna_seidujnr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
